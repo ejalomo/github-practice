@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+div{
+    height: 100vh;
+    width: 25%;
+    float: left;
+}
+
+.One, .Three{
+    background-color: aquamarine;
+}
+
+.Two, .Four {
+    background-color: blueviolet;
+}
+
+h1{
+    font-family: sans-serif;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
